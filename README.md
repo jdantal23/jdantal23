@@ -10,9 +10,11 @@ I am 22 years old. Studying my B.S in CompSci at university. Love creating websi
 *   🚀  I'm currently working on [NFT minting webpages & Google APIs](http://.)
 *   🧠  I'm learning to become a Full-Stack Developer
 *   🤝  I'm open to collaborating on Open source and Web 3.0 projects
-*   ⚡  Aliens are real.<a href="https://www.twitter.com/jdantal23" target="_blank" rel="noreferrer"><img
+*   ⚡  Aliens are real.
+<a href="https://www.twitter.com/jdantal23" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/jdantal23?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+               
+                                                                                  /></a>### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
