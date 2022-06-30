@@ -7,7 +7,7 @@ Front-End Dev | AI Machine Learning Dev
 I am 22 years old. Studying my B.S in CompSci at university. Love creating websites, AI bots, and small Python projects
 
 *   🌍  I'm based in Dallas, TX
-*   🚀  I'm currently working on [NFT minting webpages & Google APIs](http://.)
+*   🚀  I'm currently working on Web Development and Python projects.
 *   🧠  I'm learning to become a Full-Stack Developer
 *   🤝  I'm open to collaborating on Open source and Web 3.0 projects
 *   ⚡  Aliens are real.<p align="left">
