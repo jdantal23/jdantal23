@@ -1,16 +1,14 @@
 Hi 👋 My name is Jordan
 =======================
 
-Front-End Dev | AI Machine Learning Dev
+Front-End Dev | Machine Learning Dev
 ---------------------------------------
 
-I am 22 years old. Studying my B.S in CompSci at university. Love creating websites, AI bots, and small Python projects
-
-*   🌍  I'm based in Dallas, TX
-*   🚀  I'm currently working on Web Development and Python projects.
-*   🧠  I'm learning to become a Full-Stack Developer
-*   🤝  I'm open to collaborating on Open source and Web 3.0 projects
-*   ⚡  Aliens are real.<p align="left">
+*   🌍  Based in Dallas, TX
+*   🚀  Currently building with Python | Ai | Cloud based projects.
+*   🧠  Aliens are real.
+*   🤝  I'm open to collaborating on Open Source and Web3 projects
+*   <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
